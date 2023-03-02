@@ -7,7 +7,7 @@ The dataset that I will be wrangling (and analyzing and visualizing) is the twee
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for my to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
 # Objective
-My tasks in this project are as follows:
+My tasks in this project woudl be conducted in file "wrangle_act.ipynb" including following steps:
 
 Step 1: Gathering data
 
